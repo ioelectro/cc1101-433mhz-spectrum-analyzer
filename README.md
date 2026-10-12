@@ -2,6 +2,8 @@
 
 A lightweight CC1101 driver and a 433 MHz RSSI sweep example for STM32 projects using **STM32 HAL**. The project also includes register settings for raw ASK/OOK reception from common 433.92 MHz remote controls.
 
+<img width="825" height="569" alt="image" src="https://github.com/user-attachments/assets/a3b4ae20-4973-4bc3-88e1-59e07963a8f4" />
+
 ## Features
 
 - CC1101 SPI driver using STM32 HAL; no third-party library required.
